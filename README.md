@@ -9,4 +9,7 @@ Please feel free to ask any questions via issues [here](https://github.com/elkni
 
 Pull Requests welcome :)
 
-https://github.com/elkninja/elastic-stack-docker-part-one
+[기본 코드](https://github.com/elkninja/elastic-stack-docker-part-one)
+
+[my notion elk summary](https://www.notion.so/ELK-f5724289218747b4ad145c278fe59d6a?pvs=4)
+you can read and comment
